@@ -1,0 +1,3 @@
+[submodule "AgIsoStack-plus-plus"]
+	path = AgIsoStack-plus-plus
+	url = https://github.com/Open-Agriculture/AgIsoStack-plus-plus.git
